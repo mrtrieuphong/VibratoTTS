@@ -1,4 +1,4 @@
-# VibratorTTS 🎙️
+# VibratoTTS 🎙️
 
 ![Screenshot](images/screenshot.PNG)
 
